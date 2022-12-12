@@ -7,15 +7,14 @@ body{
 
 }
 .container{
-    background-color: gray;
-    border-radius: 20px;
+    background-color: black;
 }
 .title1{
     text-align:center;
     font-size:25px;
     font-weight:900px;
     text-decoration:none;
-    background:linear-gradient(to right, #CCC 50%, #FF5858 50%, maroon);
+    background:linear-gradient(to right, #CCC 50%, #0ABAB5 50%, white);
     background-size: 200%;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;
@@ -100,11 +99,19 @@ body{
 .w-100{
     height:100vh
 }
+.nav-item{
+    background-color:  #6c757d;
+    border-radius: 30px;
+    border:solid #0ABAB5;
+}
 .nav-item :hover{
-    background-color: maroon;
+    background-color: #0ABAB5;
     border-radius: 20px;
 }
 .dropdown-menu a:hover{
-    background-color: maroon;
+    background-color:#0ABAB5; 
 }
+
+
+
 
