@@ -100,16 +100,11 @@ body{
 .w-100{
     height:100vh
 }
-.navbar-nav :hover{
+.nav-item :hover{
     background-color: maroon;
     border-radius: 20px;
-}
-
-p{ text-align:justify;
-
 }
 .dropdown-menu a:hover{
     background-color: maroon;
 }
-
 
