@@ -19,7 +19,7 @@ body{
     width: 100%;
     height: 100%;
     min-height:100vh;
-    background: Linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,1.0)), url("Image/yan1.jpg");
+    background: Linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,1.0)), url("Image/kian.png");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -35,8 +35,8 @@ header{
     height:55px;
     width: 55px;
     background: transparent;
-    border: 2px solid #0ABAB5;
-    color:#0ABAB5;
+    border: 2px solid #800000;
+    color:#800000;
     border-radius:50% ;
     display: inLine-flex;
     align-items: center;
@@ -56,7 +56,7 @@ nav .hamb{
 }
 nav .hamb span{
     display:block;
-    background: #0ABAB5;
+    background: #800000;
     width:100%;
     height:3px;
     transition: .3s;
@@ -81,26 +81,26 @@ nav .nav-list li a{
     font-weight: 600;
 }
 nav .nav-list li:not(:last-child) a:hover{
-    color:#0ABAB5;
+    color:#800000;
     transition:  .4s;
 
 }
 nav .nav-list li.btn a{
     display: inline-block;
     background: transparent;
-    border: 2px solid #0ABAB5;
+    border: 2px solid #800000;
     padding: 9px 28px; 
     border-radius: 30px;
     line-height: 1.3;
-    color: #0ABAB5;
+    color: #800000;
     font-weight: 500;
 
 }
 nav .nav-list li.btn:hover a{
     background: transparent;
     color: #eee;
-    background-color: #0ABAB5;;
-    border: 2px solid #0ABAB5;
+    background-color: #800000;;
+    border: 2px solid #800000;
     transition:.4s;
 }
 .container{
@@ -118,7 +118,7 @@ nav .nav-list li.btn:hover a{
     margin:20px 0 20px;
 }
 span{
-    color:#0ABAB5;
+    color:#800000;
 
 }
 .container .hero-text h3{
@@ -147,7 +147,7 @@ span{
 }
 .container .hero-text button:hover{
     background: transparent;
-    border: 2px solid aqua;
+    border: 2px solid #800000;
     color: white;
     transition: .4s;
 }
