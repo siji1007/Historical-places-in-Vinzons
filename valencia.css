@@ -88,7 +88,7 @@ nav .nav-list li:not(:last-child) a:hover{
 nav .nav-list li.btn a{
     display: inline-block;
     background: transparent;
-    border: 2px solid #800000;
+    border: 2px solid #0ABAB5;
     padding: 9px 28px; 
     border-radius: 30px;
     line-height: 1.3;
