@@ -36,7 +36,7 @@ header{
     width: 55px;
     background: transparent;
     border: 2px solid #800000;
-    color:#800000;
+    color:#0ABAB5;
     border-radius:50% ;
     display: inLine-flex;
     align-items: center;
@@ -81,7 +81,7 @@ nav .nav-list li a{
     font-weight: 600;
 }
 nav .nav-list li:not(:last-child) a:hover{
-    color:#800000;
+    color:#0ABAB5;
     transition:  .4s;
 
 }
